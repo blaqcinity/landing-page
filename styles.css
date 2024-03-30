@@ -1,0 +1,22 @@
+/* Basic Styling for Rounded Button Section */
+.rounded-button-section {
+    text-align: center; /* Horizontally center the content */
+    margin-top: 20px;   /* Add space above the button for visual separation */
+}
+
+/* Styling for the Rounded Button */
+.rounded-button {
+    border: none;
+    border-radius: 25px; /* Create a rounded shape */
+    padding: 10px 20px;  /* Add padding to the button */
+    font-size: 16px;     /* Set the font size */
+    background-color: #080005; /* Blaqcinity black color */
+    color: #fff;         /* White text color */
+    cursor: pointer;     /* Change cursor on hover */
+}
+
+/* Hover effect for the Rounded Button */
+.rounded-button:hover {
+    background-color: #0e71a5; /* Darker shade on hover */
+}
+
